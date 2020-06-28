@@ -1,2 +1,3 @@
 # 畫出象棋
-![](https://i.imgur.com/QUyIjsE.png)
+![](https://i.imgur.com/7DVSrQp.png)
+
